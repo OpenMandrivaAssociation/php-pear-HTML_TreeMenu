@@ -7,8 +7,8 @@
 
 Summary:	%{_pearname} - provides an api to create a HTML tree
 Name:		php-pear-%{_pearname}
-Version:	1.2.0
-Release:	%mkrel 8
+Version:	1.2.1
+Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
