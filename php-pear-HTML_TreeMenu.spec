@@ -5,8 +5,8 @@
 %define		_requires_exceptions pear(../HTML_TreeMenu/TreeMenu.php)\\|pear(../TreeMenu.php)
 
 Name:		php-pear-%{upstream_name}
-Version:	1.2.1
-Release:	%mkrel 4
+Version:	1.2.2
+Release:	%mkrel 1
 Summary:	Provides an api to create a HTML tree
 License:	PHP License
 Group:		Development/PHP
