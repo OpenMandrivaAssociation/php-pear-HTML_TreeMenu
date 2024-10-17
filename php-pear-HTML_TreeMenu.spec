@@ -8,7 +8,7 @@ Release:	5
 Summary:	Provides an api to create a HTML tree
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/HTML_TreeMenu/
+URL:		https://pear.php.net/package/HTML_TreeMenu/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
